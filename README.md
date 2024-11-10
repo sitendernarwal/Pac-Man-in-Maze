@@ -24,4 +24,4 @@ This project implements a maze solver based on the classic "Rat in a Maze" probl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/maze-solver.git
+   git clone https://github.com/sitendernarwal/maze-solver.git
