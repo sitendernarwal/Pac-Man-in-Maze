@@ -1,4 +1,4 @@
-
+# I have changed something in forked repo.
 class Stack:
     def __init__(self) -> None:
         self._array = []
@@ -23,3 +23,4 @@ class Stack:
             return None
         else:
             return self._array[-1]
+
