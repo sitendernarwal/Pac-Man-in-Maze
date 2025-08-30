@@ -4,8 +4,8 @@ class Stack:
     def __init__(self) -> None:
         self._array = []
 
-    def push(self, x) -> None:
-        self._array.append(x)
+    # def push(self, x) -> None:
+    #     self._array.append(x)
 
     def is_Empty(self) -> bool:
         return len(self._array) == 0
@@ -24,5 +24,6 @@ class Stack:
             return None
         else:
             return self._array[-1]
+
 
 
